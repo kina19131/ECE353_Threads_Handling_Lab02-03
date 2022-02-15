@@ -1,3 +1,4 @@
+ ## What it's about
  you will construct user threads by implementing a set of functions that your program will call directly to provide the illusion of concurrency.
 
 
@@ -16,7 +17,7 @@ Asynchronous I/O
 Timer interrupts
   smt
 
-
+## Functions ##
 
 *Using Threads*
   Typical program with 'threads library' look like: 
