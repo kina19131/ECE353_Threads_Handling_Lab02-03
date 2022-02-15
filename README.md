@@ -54,7 +54,6 @@ Timer interrupts
         must be saved/restored from the processor when switching threads.
 
 ## How to run ## 
-$ make 
-$ ./test_basic 
+$ make && ./test_basic 
 
 Running the commend above checks through 'basic thread switching operations' 
