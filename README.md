@@ -52,4 +52,9 @@ Timer interrupts
     -> program counter, local var, stack, etc. 
     -> 'thread context': subset of this state, 
         must be saved/restored from the processor when switching threads.
-    
+
+## How to run ## 
+$ make 
+$ ./test_basic 
+
+Running the commend above checks through 'basic thread switching operations' 
